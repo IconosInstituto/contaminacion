@@ -1,2 +1,7 @@
-# contaminacion
-Proyecto Integrador de cuarto cuatrimestre
+# Contaminación
+
+## La basura en los oceanos
+
+Proyecto Integrador de cuarto cuatrimestre.
+
+---
