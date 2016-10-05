@@ -1,8 +1,8 @@
 # Contaminación
 
-## La basura en los oceános
+## La basura en los océanos
 
-Proyecto Integrador de cuarto cuatrimestre.
+>Proyecto Integrador de cuarto cuatrimestre.
 
 ---
 
