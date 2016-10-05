@@ -13,7 +13,7 @@ Los residuos de plástico se acumulan en los ambientes terrestres y marinos de t
 
 [Pelicano](http://www.ecologiaverde.com/wp-content/2013/02/aves-basura-2.jpg)
 
-La *materias* involucradas son las siguientes:
+Materias |  Activos
 
 - Sonido Digital
 - Css
