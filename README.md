@@ -15,9 +15,9 @@ Los residuos de plástico se acumulan en los ambientes terrestres y marinos de t
 
 Materias | Activos
 
-Sonido Digital        Ambientación  | 
-Css                   Sitio Web     |
-Diseño de espacios    Organización  |                
-Dibujo 3D             Museo         |
-Significación         Impresos      |
-Animación             Infografía    |
+- Sonido Digital        Ambientación  | 
+- Css                   Sitio Web     |
+- Diseño de espacios    Organización  |                
+- Dibujo 3D             Museo         |
+- Significación         Impresos      |
+- Animación             Infografía    |
