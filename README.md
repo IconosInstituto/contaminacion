@@ -42,14 +42,14 @@ Plantear a la sociedad que un elevado por ciento de la vida en el planeta Tierra
 
 # Objetivos específicos
 
-- Concientizar en nuestros espectadores un sentimiento que los haga recapacitar de forma consciente lo que implica tirar basura en las playas.
-- Difundir el problema que implica el uso de plásticos y sus derivados ya que con ellos se modifica el desarrollo y fisonomía de la vida marina.
-- Recalcar y enfatizar que en el océano ya existe un séptimo continente llamado Vórtice de plástico.
-- Dar soluciones ya que todos tenemos la responsabilidad de reducir la contaminación de nuestros océanos.
+- **Concientizar** en nuestros espectadores un sentimiento que los haga recapacitar de forma consciente lo que implica tirar basura en las playas.
+- **Difundir el problema** que implica el uso de plásticos y sus derivados ya que con ellos se modifica el desarrollo y fisonomía de la vida marina.
+- **Recalcar y enfatizar** que en el océano ya existe un séptimo continente llamado Vórtice de plástico.
+- ** Dar soluciones** ya que todos tenemos la responsabilidad de reducir la contaminación de nuestros océanos.
 
 # Relación entre el tema de la exposición y el público al que va dirigido.
 
-El tema, la contaminación en los océanos se aborda de manera general, la exposición como problema es mundial. El público deseado para visitar nuestro museo es de 6 años en adelante, esto se debe a que los niños son el futuro y desde ya debemos enseñarles a tomar conciencia de lo que está sucediendo.
+El tema, la contaminación en los océanos se aborda de manera general, la exposición como problema es mundial. El público deseado para visitar nuestro museo es de 6 años en adelante, esto se debe a que los niños son el futuro y desde ya debemos enseñarles a **tomar conciencia de lo que está sucediendo**.
 
 # Público al que va dirigido: 
 
