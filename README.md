@@ -20,8 +20,9 @@ Materias | Activos
 - Diseño de espacios |  *Organización*                 
 - Dibujo 3D          |  *Museo*         
 - Significación      |  *Impresos*      
-- Animación          |  *Infografía*   
+- Animación          |  *Infografía*  
 
+---
 
 # Guion Curatorial
 Nombre del museo: 
@@ -50,13 +51,13 @@ Plantear a la sociedad que un elevado por ciento de la vida en el planeta Tierra
 
 El tema, la contaminación en los océanos se aborda de manera general, la exposición como problema es mundial. El público deseado para visitar nuestro museo es de 6 años en adelante, esto se debe a que los niños son el futuro y desde ya debemos enseñarles a tomar conciencia de lo que está sucediendo.
 
- # Público al que va dirigido: 
+# Público al que va dirigido: 
 
 Público en general, específicamente niños de 6 a 15 años.
 
 # Salas
 
--- Sala 1 ** “Un mundo marino”**
--- Sala 2 **“Del vórtice a tu mesa”**
--- Sala 3 **“Pesca tu solución”**
+- Sala 1 ** “Un mundo marino”**
+- Sala 2 **“Del vórtice a tu mesa”**
+- Sala 3 **“Pesca tu solución”**
 
