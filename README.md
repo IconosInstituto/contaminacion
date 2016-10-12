@@ -57,7 +57,7 @@ Público en general, específicamente niños de 6 a 15 años.
 
 # Salas
 
-- Sala 1 ** “Un mundo marino”**
+- Sala 1 **“Un mundo marino”**
 - Sala 2 **“Del vórtice a tu mesa”**
 - Sala 3 **“Pesca tu solución”**
 
