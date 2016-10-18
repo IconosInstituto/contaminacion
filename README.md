@@ -57,9 +57,9 @@ Niños de 6 a 15 años :girl: :boy:
 Salas |
 ---------|---------
 
-**“Un mundo marino”** :whale: |---------
-**“Del vórtice a tu mesa”** :earth_americas: |---------
- **“Pesca tu solución”** :fish: |---------
+“Un mundo marino” :whale: |---------
+“Del vórtice a tu mesa”:earth_americas: |---------
+“Pesca tu solución” :fish: |---------
 
 [Figma](https://www.figma.com/file/RNr11QdfkuIDC4Cs86PLjrlh/Untitled)
 
