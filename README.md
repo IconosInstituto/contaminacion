@@ -26,7 +26,7 @@ Animación          |  *Infografía*
 # Guion Curatorial
 Nombre del museo:  
 
-## *ciclo*
+## ciclo :cyclone:
 
 Mucha gente no tiene idea del *valor de los océanos*, muchos sienten que esta agua no tiene valor debido a su contenido de sal. Sin embargo, es el hogar de una enorme cantidad de ** vida acuática **, sin ellos, no existiría la posibilidad tener oxígeno, entonces no habría seres humanos u otros seres vivos sobre la tierra.
 
