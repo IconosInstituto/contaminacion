@@ -60,3 +60,5 @@ Niños de 6 a 15 años :girl: :boy:
 - Sala 2 **“Del vórtice a tu mesa”** :earth_americas:
 - Sala 3 **“Pesca tu solución”** :fish:
 
+[Figma](https://www.figma.com/file/RNr11QdfkuIDC4Cs86PLjrlh/Untitled)
+
