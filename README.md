@@ -11,7 +11,7 @@ Según un reciente informe del **Programa de las Naciones Unidas para el Ambient
 
 Los residuos de plástico se acumulan en los ambientes terrestres y marinos de todo el mundo, se descomponen lentamente en pequeños pedazos tóxicos que pueden ser consumidos por los seres vivos a todos los niveles de la cadena alimentaria. Muchos animales, incluidos los mamíferos marinos, las aves, los peces y las tortugas, pueden confundir los plásticos por alimentos. Las tortugas marinas, en particular, confunden las bolsas flotantes con las medusas, uno de sus alimentos preferidos. Un estudio de cinco años de duración sobre los fulmares en la región del Mar del Norte, ha revelado que el 95% de estas aves contiene plástico en su propio estómago.
 
-![Universo Creativo](/universo-creativo/artepovera.jpg)
+![Universo Creativo](artepovera.jpg)
 
 Materias     |  Activos
 ------------ |  ------------
@@ -28,7 +28,7 @@ Nombre del museo:
 
 ## ciclo :cyclone:
 
-![logotipo](/universo-creativo/CICLO_ola.jpg)
+![logotipo](CICLO_ola.jpg)
 
 Mucha gente no tiene idea del *valor de los océanos*, muchos sienten que esta agua no tiene valor debido a su contenido de sal. Sin embargo, es el hogar de una enorme cantidad de ** vida acuática **, sin ellos, no existiría la posibilidad tener oxígeno, entonces no habría seres humanos u otros seres vivos sobre la tierra.
 
