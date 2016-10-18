@@ -56,7 +56,6 @@ Niños de 6 a 15 años :girl: :boy:
 
 Salas |
 ---------|---------
-
 Un mundo marino :whale: |---------
 Del vórtice a tu mes :earth_americas: |---------
 Pesca tu solución :fish: |---------
