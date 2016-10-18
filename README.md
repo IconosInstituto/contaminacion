@@ -6,7 +6,7 @@
 
 ---
 
-El siguiente proyecto es para *concientizar* a la gente que **Tira basura** en las playas :palm_tree: .
+El siguiente proyecto es para *concientizar* a la gente que **Tira basura** en las playas :palm_tree:.
 Según un reciente informe del **Programa de las Naciones Unidas para el Ambiente (PNUA)**, los plásticos, en particular las bolsas y las botellas en PET (Tereftalato de polietileno), son los residuos marinos más difundidos en el mundo: en muchos mares regionales representan más del **80% de los residuos.** :ocean:
 
 Los residuos de plástico se acumulan en los ambientes terrestres y marinos de todo el mundo, se descomponen lentamente en pequeños pedazos tóxicos que pueden ser consumidos por los seres vivos a todos los niveles de la cadena alimentaria. Muchos animales, incluidos los mamíferos marinos, las aves, los peces y las tortugas, pueden confundir los plásticos por alimentos. Las tortugas marinas, en particular, confunden las bolsas flotantes con las medusas, uno de sus alimentos preferidos. Un estudio de cinco años de duración sobre los fulmares en la región del Mar del Norte, ha revelado que el 95% de estas aves contiene plástico en su propio estómago.
@@ -48,7 +48,7 @@ Plantear a la sociedad que un elevado por ciento de la vida en el planeta Tierra
 
 # Relación entre el tema de la exposición y el público al que va dirigido.
 
-El tema, la contaminación en los océanos se aborda de manera general, la exposición como problema es mundial. El público deseado para visitar nuestro museo es de 6 años en adelante, esto se debe a que los niños son el futuro y desde ya debemos enseñarles a **tomar conciencia de lo que está sucediendo**.
+El tema, la contaminación en los océanos se aborda de manera general, la exposición como problema es mundial. El público deseado para visitar nuestro museo es de 6 años en adelante, esto se debe a que los niños son el futuro y desde ya debemos enseñarles a **tomar conciencia de lo que está sucediendo**. :recycle:
 
 # Público al que va dirigido: 
 
@@ -56,7 +56,7 @@ Público en general, específicamente niños de 6 a 15 años.
 
 # Salas
 
-- Sala 1 **“Un mundo marino”**
-- Sala 2 **“Del vórtice a tu mesa”**
-- Sala 3 **“Pesca tu solución”**
+- Sala 1 **“Un mundo marino”** :whale:
+- Sala 2 **“Del vórtice a tu mesa”** :earth_americas:
+- Sala 3 **“Pesca tu solución”** :fish:
 
