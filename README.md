@@ -52,7 +52,7 @@ El tema, la contaminación en los océanos se aborda de manera general, la expos
 
 # Público al que va dirigido: 
 
-Público en general, específicamente niños de 6 a 15 años.
+Niños de 6 a 15 años :girl: :boy:
 
 # Salas
 
