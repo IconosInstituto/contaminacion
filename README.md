@@ -66,6 +66,11 @@ Pesca tu solución :fish: |---------
 
 ![Boceto planta](plano.jpg)
 
+# Volumetría
+![Volumetria](volumetria.png)
+
+
+
 
 [Figma](https://www.figma.com/file/RNr11QdfkuIDC4Cs86PLjrlh/Untitled)
 
