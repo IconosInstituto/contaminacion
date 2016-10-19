@@ -62,5 +62,10 @@ Un mundo marino :whale: |---------
 Del vórtice a tu mesa :earth_americas: |---------
 Pesca tu solución :fish: |---------
 
+# Plano del museo
+
+![Boceto planta](plano.jpg)
+
+
 [Figma](https://www.figma.com/file/RNr11QdfkuIDC4Cs86PLjrlh/Untitled)
 
