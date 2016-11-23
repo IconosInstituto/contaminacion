@@ -73,7 +73,7 @@ Pesca tu solución :fish: |---------
 
 ![Personaje](ciclopet.png)
 
-Características del personaje
+# Características del personaje
 
 Nombre: **Ciclopet**, es la combinación del nombre del museo y el material del cual surgió, PET (polietileno tereftalato plástico muy usado en envases de bebidas y textiles, es un polímero termoplástico lineal, con un alto grado de cristalinidad).
 Nació en el **Vórtice de plástico** hace 5 años, por la acumulación de desechos plásticos en el mar y el calentamiento global, formándose con botellas de plástico y pilas. Estas hicieron que tuviera un poder de energía capaz de levantar peso mayor al suyo.
