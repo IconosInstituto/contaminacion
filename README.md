@@ -133,6 +133,10 @@ El ejemplo y héroe
 
 ![Infografía](infografia.png)
 
+# Cartel
+
+![cartel](pezbotella.png)
+
 
 
 
