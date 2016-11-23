@@ -54,7 +54,7 @@ El tema, la contaminación en los océanos se aborda de manera general, la expos
 
 # Público al que va dirigido: 
 
-Niños de 6 a 15 años :girl: :boy:
+Niños de 6 a 12 años :girl: :boy:
 
 Salas |
 ---------|---------
@@ -87,6 +87,7 @@ Pasado del personaje:
 Su vida ha sido complicada ya que nació en un ambiente contaminado, rodeado de desechos y malos olores. Conforme se fue creando tuvo la conciencia de no ser siempre basura y convertirse algo útil al planeta, al ver como poco a poco se va desgastando se armó de partes de ellas, y de su mal lo transformo para ayudarse y combatir la problemática.
 
 # Motivaciones:
+
 El planeta tierra, el medio ambiente y sobre todas las especies que viven en los océanos, que poco a poco están muriendo por la contaminación que genera el humano.
 Cometido:
 Recuperar el océano, concientizar al ser humano del daño que le está causando a las especies marinas, pero sobre todo dar soluciones de lo que se puede hacer aun para tener un mejor planeta.
@@ -94,6 +95,7 @@ Papel en la historia:
 Ser un ejemplo a seguir para lograr un cambio en la forma de pensar ante la problemática que es la Contaminación de los océanos.
 
  # Brief del personaje
+
 *¿En qué medio se empleará al personaje?*
 En una infografía animada hecha en toonboom, que nos dará a conocer la problemática y soluciones a desarrollar para tener una mayor lectura del problema que estamos tomando.
 
@@ -107,13 +109,19 @@ Caricaturizado y fuera de la realidad, pero con conciencia y sentimientos humano
 
 
 *¿El personaje hablará?*
-Si.
+
+Si
+
 *¿El personaje debe ser simple o complejo?*
+
 Simple
+
 *¿A quién va dirigido el personaje?*
+
 A niños de 5 a 12 años.
 
 *¿Qué papel cumplirá el personaje?*
+
 El ejemplo y héroe.
 
 # Infografía
