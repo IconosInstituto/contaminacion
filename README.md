@@ -116,6 +116,13 @@ A niños de 5 a 12 años.
 *¿Qué papel cumplirá el personaje?*
 El ejemplo y héroe.
 
+# Infografía
+
+![Infografía](infografia.png)
+
+
+
+
 
 
 
