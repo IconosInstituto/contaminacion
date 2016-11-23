@@ -151,4 +151,4 @@ El ejemplo y héroe
 
 [Figma](https://www.https://www.figma.com/file/crgTgOb4ajU89Vj4LoucvPWz/ciclo%2Fcontaminaci%C3%B3n-de-los-oc%C3%A9anos)
 
-[web](https://www.figma.com/file/crgTgOb4ajU89Vj4LoucvPWz/ciclo%2Fcontaminaci%C3%B3n-de-los-oc%C3%A9anos)
+[web](https://cxrbrnrd.github.io/sitio_proyecto/)
