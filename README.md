@@ -94,7 +94,7 @@ Recuperar el océano, concientizar al ser humano del daño que le está causando
 Papel en la historia:
 Ser un ejemplo a seguir para lograr un cambio en la forma de pensar ante la problemática que es la Contaminación de los océanos.
 
- # Brief del personaje
+# Brief del personaje
 
 *¿En qué medio se empleará al personaje?*
 
