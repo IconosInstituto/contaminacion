@@ -69,6 +69,59 @@ Pesca tu solución :fish: |---------
 # Volumetría
 ![Volumetria](volumetria.png)
 
+# Personaje
+
+![Personaje](ciclopet.png)
+
+Características del personaje
+
+Nombre: **Ciclopet**, es la combinación del nombre del museo y el material del cual surgió, PET (polietileno tereftalato plástico muy usado en envases de bebidas y textiles, es un polímero termoplástico lineal, con un alto grado de cristalinidad).
+Nació en el **Vórtice de plástico** hace 5 años, por la acumulación de desechos plásticos en el mar y el calentamiento global, formándose con botellas de plástico y pilas. Estas hicieron que tuviera un poder de energía capaz de levantar peso mayor al suyo.
+# Personalidad:
+Héroe su poder se caracteriza por luchar contra la Contaminación de los océanos, trata de mantener a raya a todos los que tiran basura además de concientizar cual es la problemática y sus consecuencias. Su causa, recuperar los océanos, reciclar algunos materiales que se consideran basura e informar lo que puede suceder si seguimos contaminando.
+Hombre joven, estatura media, atlético, usa capa que hace que vuele con mayor agilidad, su traje está hecho con botellas de plástico, latas de refresco y pilas.
+
+# Vínculos sociales: 
+Se relaciona con otros individuos de su especie, logrando un ejército que le ayudará a limpiar y convencer al humano para lograr su cometido.
+Pasado del personaje:
+Su vida ha sido complicada ya que nació en un ambiente contaminado, rodeado de desechos y malos olores. Conforme se fue creando tuvo la conciencia de no ser siempre basura y convertirse algo útil al planeta, al ver como poco a poco se va desgastando se armó de partes de ellas, y de su mal lo transformo para ayudarse y combatir la problemática.
+
+# Motivaciones:
+El planeta tierra, el medio ambiente y sobre todas las especies que viven en los océanos, que poco a poco están muriendo por la contaminación que genera el humano.
+Cometido:
+Recuperar el océano, concientizar al ser humano del daño que le está causando a las especies marinas, pero sobre todo dar soluciones de lo que se puede hacer aun para tener un mejor planeta.
+Papel en la historia:
+Ser un ejemplo a seguir para lograr un cambio en la forma de pensar ante la problemática que es la Contaminación de los océanos.
+
+ # Brief del personaje
+*¿En qué medio se empleará al personaje?*
+En una infografía animada hecha en toonboom, que nos dará a conocer la problemática y soluciones a desarrollar para tener una mayor lectura del problema que estamos tomando.
+
+*¿Cómo será usado el personaje?*
+Como un elemento fundamental del proyecto integrador que será el guía de nuestro tema, así como el ejemplo a seguir para cambiar la forma de pensar del grupo objetivo.
+
+*¿Cómo será mostrado el personaje?*
+Caricaturizado y fuera de la realidad, pero con conciencia y sentimientos humanos.
+- ¿Se necesitan diferentes ángulos, poses y expresiones del personaje?
+Ángulos y poses sí, pero al ser una tapa de botella su rostro no se podrá tener expresiones, quizá eso se logrará con un cambio de colores que representen las emociones.
+
+
+*¿El personaje hablará?*
+Si.
+*¿El personaje debe ser simple o complejo?*
+Simple
+*¿A quién va dirigido el personaje?*
+A niños de 5 a 12 años.
+
+*¿Qué papel cumplirá el personaje?*
+El ejemplo y héroe.
+
+
+
+
+
+
+
 
 
 
