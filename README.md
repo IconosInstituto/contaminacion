@@ -97,14 +97,19 @@ Ser un ejemplo a seguir para lograr un cambio en la forma de pensar ante la prob
  # Brief del personaje
 
 *¿En qué medio se empleará al personaje?*
+
 En una infografía animada hecha en toonboom, que nos dará a conocer la problemática y soluciones a desarrollar para tener una mayor lectura del problema que estamos tomando.
 
 *¿Cómo será usado el personaje?*
+
 Como un elemento fundamental del proyecto integrador que será el guía de nuestro tema, así como el ejemplo a seguir para cambiar la forma de pensar del grupo objetivo.
 
 *¿Cómo será mostrado el personaje?*
+
 Caricaturizado y fuera de la realidad, pero con conciencia y sentimientos humanos.
-- ¿Se necesitan diferentes ángulos, poses y expresiones del personaje?
+
+*¿Se necesitan diferentes ángulos, poses y expresiones del personaje?*
+
 Ángulos y poses sí, pero al ser una tapa de botella su rostro no se podrá tener expresiones, quizá eso se logrará con un cambio de colores que representen las emociones.
 
 
